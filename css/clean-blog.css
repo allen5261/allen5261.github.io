@@ -1,5 +1,5 @@
 body {
-  font-family: "Georgia", "source-han-serif-sc", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family: "Georgia", "source-han-serif-sc","Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   font-size: 16px;
   color: #404040;
@@ -14,13 +14,13 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Georgia", "source-han-sans-simplified-c", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family: "source-han-serif-sc", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
 
   line-height: 1.1;
   font-weight: 800;
 }
 h1 {
-  font-family: "Georgia", "source-han-serif-sc", 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "source-han-sans-simplified-c", 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 h4 {
   font-size: 18px;
