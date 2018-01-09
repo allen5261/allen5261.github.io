@@ -3,8 +3,8 @@ title: 老王杂谈 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "老王的杂谈网"  # 一句话描述你的博客
-baseurl: "/wang-talks"
-url: "https://allen5261.github.io/wang-talks"  # 此处填写你的博客地址 
+baseurl: ""
+url: "https://allen5261.github.io/wang-talks/"  # 此处填写你的博客地址 
 root: 
 
 
