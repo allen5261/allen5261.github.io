@@ -15,7 +15,7 @@ layout: default
                 <div class="post-heading">
                     <div class="Tags">
                         {% for tag in page.tags %}
-                        <a class="tag" href="/Tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>
+                        <font color="#FF0000"><a class="tag" href="/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a></font>
                         {% endfor %}
                     </div>
                     <h1>{{ page.title }}</h1>
