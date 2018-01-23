@@ -18,6 +18,8 @@ Andrew 是个狂热航空爱好者，任职于阿联酋阿提哈德航空公司�
 
 当被问及行程结束后有什么想法，Andrew 说，这次成功的环球飞行说明，上海就是世界的十字路口，从这里出发可以方便抵达任何地方，哪怕目的地远在地球的另一端。
 
+（部分内容摘编自微信公众号 航空物语 ）
+
 You may have read _Around The World in 80 Days_, the leading character finished travelling around the world in 80 days. Modern transportation is more convenient, and people can easily travel from place to place. With planes, it is possible to travel around  the earth in three days.
 
 On the morning of January 23, 2018, a New Zealanders Andrew Fisher completed the flight around the world at Shanghai Pudong Airport. He covered the distance of 41,476 kilometers in 52 hours and 34 minutes. He has  created a new world record for the fastest circumnavigation by scheduled flights through _approx antipodal points_(大约对拓点).
