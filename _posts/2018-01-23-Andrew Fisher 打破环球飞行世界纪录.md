@@ -4,7 +4,7 @@ title: Andrew Fisher 打破环球飞行世界纪录
 date: 2018-01-23
 categories: blog
 tags: [时事]
-header-img: "img/posts/20180123.webp"
+header-img: "img/posts/20180123.jpg"
 ---
 你或许看过《80天环游地球》，主人公用80天，历尽艰辛，完成了环游地球的壮举。现代的交通方式更加便利，人们可以方便地在各地间往返——有了飞机，在3天内环绕地球一周变为可能。
 
