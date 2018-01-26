@@ -1,4 +1,5 @@
 ---
+author: 摘自微信公众号 航空物语
 layout: post
 title: Andrew Fisher 打破环球飞行世界纪录
 date: 2018-01-23
@@ -17,8 +18,6 @@ Andrew 是个狂热航空爱好者，任职于阿联酋阿提哈德航空公司�
 起飞后11小时30分后，他到达了新西兰的奥克兰。2小时后，他登上了飞往阿根廷布宜诺斯艾利斯的航班，在茫茫的太平洋上空又飞行了11小时30分钟，在当地时间1月21日15:45，他到达了上海在地球上的对点。不到1小时，他又马不停蹄地赶往阿姆斯特丹。13小时后，飞机正点到达荷兰。在阿姆斯特丹，他登上了回程的东航航班，中国的土地，在11小时的那一头等待着他。值得一提的是，几天前，中国刚刚开放机上电子产品的使用，Andrew 便在回程航班上试用了机上互联网，此程首次在机上发布了照片。我国航空公司借这次Andrew挑战纪录的机会，在全世界面前展示了领先互联网航企的形象。
 
 当被问及行程结束后有什么想法，Andrew 说，这次成功的环球飞行说明，上海就是世界的十字路口，从这里出发可以方便抵达任何地方，哪怕目的地远在地球的另一端。
-
-（部分内容摘编自微信公众号 航空物语 ）
 
 You may have read _Around The World in 80 Days_, the leading character finished travelling around the world in 80 days. Modern transportation is more convenient, and people can easily travel from place to place. With planes, it is possible to travel around  the earth in three days.
 
