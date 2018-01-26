@@ -267,8 +267,7 @@ hr.small {
   margin-top: -5px;
 }
 .intro-header .post-heading .meta {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-style: italic;
+  font-family: "Georgia", "source-han-serif-sc", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   font-weight: 300;
   font-size: 17px;
 }
