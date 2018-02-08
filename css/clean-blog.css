@@ -203,12 +203,13 @@ hr.small {
   background-size: cover;
   -o-background-size: cover;
   margin-bottom: 0px;
+  text-shadow: 2px 2px;
   /* 0 on mobile, changed the setting*/
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
     margin-bottom: 20px;
-    text-shadow: 1px 1px;
+    text-shadow: 2px 2px;
     /* response on desktop */
   }
 }
