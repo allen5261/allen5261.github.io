@@ -209,7 +209,7 @@ hr.small {
 @media only screen and (min-width: 768px) {
   .intro-header {
     margin-bottom: 20px;
-    text-shadow: 2px 2px;
+    text-shadow: 1px 1px #000;
     /* response on desktop */
   }
 }
