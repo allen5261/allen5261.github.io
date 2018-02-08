@@ -203,7 +203,7 @@ hr.small {
   background-size: cover;
   -o-background-size: cover;
   margin-bottom: 0px;
-  text-shadow: 2px 2px;
+  text-shadow: 1px 1px #000;
   /* 0 on mobile, changed the setting*/
 }
 @media only screen and (min-width: 768px) {
